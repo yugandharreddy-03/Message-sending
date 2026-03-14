@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Info {
     public static void main(String[] args) {
-      System.out.println("good ngt");
+      System.out.println("good ");
     }
 }
